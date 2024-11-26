@@ -1,3 +1,5 @@
+# the package requirements are in the requirements.txt file
+
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns 
